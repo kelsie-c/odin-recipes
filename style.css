@@ -1,3 +1,20 @@
 * {
     font-family: "Inter", "Roboto", sans-serif;
 }
+
+h1, h2, h3, li {
+    color: #010203;
+}
+
+ul {
+    padding: 20px;
+}
+
+ul.li {
+    list-style: square;
+    margin-left: 20px;
+}
+
+a {
+    color: blue;
+}
