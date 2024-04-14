@@ -5,9 +5,8 @@
 
 ul {
     list-style: square;
-    margin-left: 20px;
     padding: 20px;
-    background-color: #d3d3d3;
+    background-color: #DEDEDE;
     border-radius: 10px;
 }
 
