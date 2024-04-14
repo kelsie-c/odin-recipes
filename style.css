@@ -4,11 +4,14 @@
 }
 
 ul {
+    list-style: square;
+    margin-left: 20px;
     padding: 20px;
+    background-color: lightgrey;
+    border-radius: 10px;
 }
 
-ul {
-    list-style: square;
+ul.li {
     margin-left: 20px;
 }
 
