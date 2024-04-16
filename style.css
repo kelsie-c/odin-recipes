@@ -9,9 +9,15 @@
     align-items: center;
 }
 
-h1 {
+.home-title {
     margin: 150px 0 10px 0;
     font-size: 48px;
+}
+
+.recipe-title {
+    font-size: 48px;
+    font-family: "Inter", "Roboto", sans-serif;
+    color: #010203;
 }
 
 h5 {
@@ -25,7 +31,7 @@ h5 {
     display: flex;
 }
 
-ul {
+.recipe-list {
     list-style: none;
     padding: 20px;
     border-radius: 10px;
@@ -33,7 +39,7 @@ ul {
     margin: 0 auto;
 }
 
-li {
+.recipe-list-item {
     display: inline-block;
     flex-direction: column;
     width: 200px;
